@@ -1,7 +1,7 @@
 8-puzzle
 ========
 
-(Para instruções em português (Brasil), veja arquivo REAMDE.por)
+(Para instruções em português (Brasil), veja arquivo README.por)
 
 Prolog 8-puzzle game solver (creates heuristics and performis A* search)
 
