@@ -1,9 +1,12 @@
 8-puzzle
 ========
 
-Prolog 8-puzzle solver (using A* search algorithm)
+(Para instruções em português (Brasil), veja arquivo REAMDE.por)
 
+Prolog 8-puzzle game solver (creates heuristics and performis A* search)
 
+-------
 Usage
 -------
-See instructions in prolog files (in Brazilian Portuguese)
+
+See instructions in prolog files (only in Brazilian Portuguese)
